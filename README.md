@@ -31,3 +31,5 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /> 
 </div>  
+
+![snake gif](https://github.com/gui-car1/gui-car1/blob/output/github-contribution-grid-snake.svg)
